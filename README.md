@@ -12,9 +12,9 @@ A collection of certificates earned through online courses and learning platform
 | :---: | :---: |
 | [![JavaScript Certificate](Scrimba/JavaScript/certificate.png)](Scrimba/JavaScript/certificate.pdf) | [![HTML & CSS Certificate](Scrimba/Html-Css/certificate.png)](Scrimba/Html-Css/certificate.pdf) |
 
-| Markdown | |
+| Markdown | Agentic Coding |
 | :---: | :---: |
-| [![Markdown Certificate](Scrimba/Markdown/certificate.png)](Scrimba/Markdown/certificate.pdf) | |
+| [![Markdown Certificate](Scrimba/Markdown/certificate.png)](Scrimba/Markdown/certificate.pdf) | [![Agentic Coding Certificate](Scrimba/Agentic-Coding/certificate.png)](Scrimba/Agentic-Coding/certificate.pdf) |
 
 ---
 
